@@ -81,7 +81,7 @@ To install `kubectl` [see this link](https://kubernetes.io/docs/tasks/tools/inst
 
 copy contents to your dev machine
 
-`~/kube/config`
+`~/.kube/config`
 
 
 Be sure to update the `server:` to your load balancer ip or hostname
